@@ -83,4 +83,7 @@ sama seperti while cuma yang membedakan adalah dengan do perulangan dilakukan te
 
 Tugas
 
+<img width="1920" height="1080" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/0ce08fd2-b8eb-431d-b703-3f9ab2dddedb" />
+ini adalah hasil dari kode yang dibuat berdasarkan tugas yang diberikan, untuk kodenya akan dikirim dalam bentuk file disini
 
+oke itu saja terima kasih
