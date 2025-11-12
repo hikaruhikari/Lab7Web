@@ -13,7 +13,7 @@ karena sudah terinstall sebelumnya jadi saya hanya menunjukkan folder PHP berada
 
 <img width="1920" height="1080" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/76a5cdd5-c39f-41b5-a990-e1303c7b07a2" />
 Menyalakan Apache dengan mengklik start agar saat menampilkan php ke web itu terbaca (sisanya yang nyala tidak penting)
-<br>
+
 3. Memulai PHP
 
 <img width="1920" height="1080" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/3dc79291-9add-4f19-8c68-314bd182831d" />
@@ -46,18 +46,39 @@ form input dibuat seperti pada umumnya dengan html tapi dengan tambahan POST unt
 
 8. Operator
 
+<img width="1920" height="1080" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/4aaa611e-c0d5-442a-81d1-7568f5747700" />
+<img width="1920" height="1080" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/cce956ae-d215-4cdd-bcfd-f10bae8383a2" />
+dalam sistem ini tanda - untuk mengurangi nilai dan tanda * untuk mengkalikan nilai dan tanda () untuk memprioritaskan hitungan di dalammnya
 
-9. Kondisi Switch
+9. Kondisi if
 
+<img width="1920" height="1080" alt="Screenshot (398)" src="https://github.com/user-attachments/assets/cac38e3c-49b1-4c45-bb1a-37df0cc6043d" />
+<img width="1920" height="1080" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/ae7066a9-4327-4e85-91b6-a128be0f256d" />
+if digunakan dalam kondisi pilihan jadi jika kondisi true or false maka hasil yang ditampilkan akan sesuai denga apa yang diterima
 
-10. Perulangan for
+10. Kondisi Switch
 
+<img width="1920" height="1080" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/bcca99f7-b6ee-41ce-95f9-e7c300fd6c35" />
+<img width="1920" height="1080" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/34d1141b-ea86-4b13-b6a8-e0f3f8ae7458" />
+sama seperti if tapi lebih mudah karena untuk membuat banyak kondisi tidak perlu membuat kode yang rumit seperti if
 
-11. Perulangan while
+11. Perulangan for
 
+<img width="1920" height="1080" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/b0fc9daa-ea5d-40fd-aa63-09426c13cc53" />
+<img width="1920" height="1080" alt="Screenshot (402)" src="https://github.com/user-attachments/assets/f745a104-f0bd-4a62-9974-22d2401d5122" />
+for digunakan jika ingin melakukan perulangan yang terbatas dan tidak akan digunakan lagi
 
-12. Perulangan dowhile
+12. Perulangan while
 
+<img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/82829bf2-5c77-4831-8bcb-4ca542abde39" />
+<img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/3e896f00-3017-4e09-a800-92e51c089765" />
+sama seperti for tapi while adalah perulangan yang tidak terbatas jika kita tidak membatasinya dan bisa digunakan kembali
+
+13. Perulangan dowhile
+
+<img width="1920" height="1080" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/ae809216-a952-435e-9fc8-17eaa22644bd" />
+<img width="1920" height="1080" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/291c9882-7a69-4eef-ae43-3d7820ec6b74" />
+sama seperti while cuma yang membedakan adalah dengan do perulangan dilakukan terlebih dahulu walaupun ada yang false
 
 
 Tugas
