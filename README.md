@@ -12,8 +12,8 @@ karena sudah terinstall sebelumnya jadi saya hanya menunjukkan folder PHP berada
 2. Menjalankan Web Server
 
 <img width="1920" height="1080" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/76a5cdd5-c39f-41b5-a990-e1303c7b07a2" />
-Menyalakan Apache dengan mengklik start agar saat menampilkan php ke web itu terbaca (sisanya yang nyala tidak penting)<br>
-
+Menyalakan Apache dengan mengklik start agar saat menampilkan php ke web itu terbaca (sisanya yang nyala tidak penting)
+<br>
 3. Memulai PHP
 
 <img width="1920" height="1080" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/3dc79291-9add-4f19-8c68-314bd182831d" />
