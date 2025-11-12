@@ -34,10 +34,15 @@ variabel disini menggunakan simbol $ dan menggunakan = agar isi pada variabel te
 
 6. Predefine Variabel $_Get
 
-
+<img width="1920" height="1080" alt="Screenshot (392)" src="https://github.com/user-attachments/assets/8662afa8-5030-4bf9-bb80-aad4ead33994" />
+<img width="1920" height="1080" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/72fd313e-c08d-403e-ac7d-223576419d86" />
+$_Get lebih sering digunakan untuk menampilkan address bar dan nama apapun dari input yang dibuat
 
 7. Membuat Form Input
 
+<img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/56944448-a3cd-418a-857e-a754c062bc62" />
+<img width="1920" height="1080" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/50acf49b-fcb4-4483-a2ff-9e9c66e6f3b4" />
+form input dibuat seperti pada umumnya dengan html tapi dengan tambahan POST untuk method agar saat kita memasukkan nama disitu php akan mencetak nilai dengan nama yang sudah di input kan
 
 8. Operator
 
